@@ -34,17 +34,13 @@ While all three career paths are related to data analytics, they focus on and pr
 
 ## ProjectPro Data Analytics Disciplines
 
-### Bureau of Labor & Statistics Career 1
+ProjectPro provides a comparison of several different data analytics disciplines, notably Data Engineering, Business Analytics, and Machine Learning which are closely related to the three career paths I have chosen to consider. ProjectPro describes data engineering as the design and implementation of data architecture from the databases storing the data to the large scale systems processing the data. ProjectPro differentiates business analytics from other disciplines as the statistical study and analysis of primarily structured business data with a focused scope on providing business solutions to specific problems. The machine learning discipline's goal is create predictive models using machine learning concepts that can be applied to data problems
 
-#### Academic Skills & Career Requirements Assessment
+### Bureau of Labor & Statistics Careers
 
-### Bureau of Labor & Statistics Career 2
+The Bureau of Labor & Statistics provides information on the job outlook for data scientists, operations research analysts, and statisticians. All three careers are related to data analytics and have a positive job outlook with high median salaries. While statisticians make more than research analysts, there are significantly more job opportunities for research analysts. Data scientists have the highest median salary of the three careers while also having the highest number of employment opportunities.
 
-#### Academic Skills & Career Requirements Assessment
-
-### Bureau of Labor & Statistics Career 3
-
-#### Academic Skills & Career Requirements Assessment
+The academic and professional skills required for these careers include a strong foundation in mathematics, statistics, and programming. Data scientists may benefit from a strong background in computer science, while statisticians require a stronger focused background in mathematics and statistics. Operations research analysts require a strong background in statistics as well as a strong fundamentals in business.
 
 ---
 
@@ -59,6 +55,8 @@ My top five CliftonStrengths themes are Restorative, Ideation, Relator, Analytic
 ---
 
 ## Sources
+
+-   Bureau of Labor & Statistics "Occupational Employment Statistics" Bureau of Labor & Statistics https://data.bls.gov/oes/#/home Accessed Sep 9,2024.
 
 -   Gallup "34 CliftonStrengths Themes" Gallup https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx Accessed Sep 9,2024.
 
