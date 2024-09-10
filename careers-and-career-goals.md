@@ -11,30 +11,40 @@ D596 The Data Analytics Journey
 # Careers And Career Goals
 
 ---
+
 ## Career Plan
 
-### Career/Role 1
+### Career 1: Business Intelligence Analyst
 
-### Career/Role 2
+Business intelligence analysts are responsible for using data to help businesses make daily decisions. They gather key business datasets such as revenue, sales, or market trends to visualize data for key stakeholders within the company. They support the data analytics life cycle by providing insights and recommendations to improve business processes especially in the Business Understanding and Reporting & Visualization phases.
 
-### Career/Role 3
+### Career 2: Data Engineer
+
+Data engineers design, build, and maintain the data infrastructure or pipelines for processing, storage, and retrieval. They maintain data pipelines with accurate clean data from various sources. Data engineers support the Data Acquisition, Data Cleaning, and Data Exploration phases of the data analytics life cycle.
+
+### Career 3: Machine Learning Engineer
+
+Machine learning engineers handle the design, development, and deployment of machine learning models that solve complex business problems. Machine learning engineers will select, train, and evaluate models to predict future outcomes or classify data. They support the Predictive Modeling and Data Mining & Machine Learning phases of the data analytics life cycle.
 
 ### Comparison
+
+While all three career paths are related to data analytics, they focus on and provide different types of support to the data analytics life cycle. Business intelligence analysts focus on the Business Understanding and Reporting & Visualization phases, data engineers focus on the Data Acquisition, Data Cleaning, and Data Exploration phases, and machine learning engineers focus on the Predictive Modeling and Data Mining & Machine Learning phases. Each of their skill sets and responsibilities are unique and essential to their area of the data analytics life cycle.
 
 ---
 
 ## ProjectPro Data Analytics Disciplines
 
 ### Bureau of Labor & Statistics Career 1
+
 #### Academic Skills & Career Requirements Assessment
 
-
 ### Bureau of Labor & Statistics Career 2
+
 #### Academic Skills & Career Requirements Assessment
 
 ### Bureau of Labor & Statistics Career 3
-#### Academic Skills & Career Requirements Assessment
 
+#### Academic Skills & Career Requirements Assessment
 
 ---
 
@@ -43,4 +53,3 @@ D596 The Data Analytics Journey
 ### CliftonStrengths Reflection
 
 ---
-
