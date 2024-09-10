@@ -50,6 +50,10 @@ While all three career paths are related to data analytics, they focus on and pr
 
 ## Potential Career Goal
 
+As a student pursuing an MSDA with a specialization in data science with an extensive background in software engineering, I am interested in pursuing a career as a machine learning engineer. This career path aligns with my strong foundation in programming, mathematics, and statistics, as well as my passion for solving complex business problems.
+
 ### CliftonStrengths Reflection
+
+My top five CliftonStrengths themes are Restorative, Ideation, Relator, Analytical, and Intellection. My Ideation, Analytical, and Intellection themes fall under the strategic thinking leadership domain allowing me to absorb and analyze information to make strategic decisions. My Restorative theme falls under the executing leadership domain signalling that my drive to find answers helps me make actionable decisions. My Relator theme falls under the relationship-building leadership domain indicating that I can build strong relationships by connecting deeply with the right people. These themes are crucial for a machine learning engineer as they require strategic thinking and problem-solving skills to develop machine learning models.
 
 ---
