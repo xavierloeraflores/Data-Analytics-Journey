@@ -57,3 +57,9 @@ As a student pursuing an MSDA with a specialization in data science with an exte
 My top five CliftonStrengths themes are Restorative, Ideation, Relator, Analytical, and Intellection. My Ideation, Analytical, and Intellection themes fall under the strategic thinking leadership domain allowing me to absorb and analyze information to make strategic decisions. My Restorative theme falls under the executing leadership domain signalling that my drive to find answers helps me make actionable decisions. My Relator theme falls under the relationship-building leadership domain indicating that I can build strong relationships by connecting deeply with the right people. These themes are crucial for a machine learning engineer as they require strategic thinking and problem-solving skills to develop machine learning models.
 
 ---
+
+## Sources
+
+-   Gallup "34 CliftonStrengths Themes" Gallup https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx Accessed Sep 9,2024.
+
+-   ProjectPro "Data Science Compared with Different Analytics Disciplines" ProjectPro https://www.projectpro.io/article/data-science-compared-with-different-analytics-disciplines/175 Accessed Sep 9,2024.
