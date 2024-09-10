@@ -16,7 +16,7 @@ D596 The Data Analytics Journey
 
 ### Career 1: Business Intelligence Analyst
 
-Business intelligence analysts are responsible for using data to help businesses make daily decisions. They gather key business datasets such as revenue, sales, or market trends to visualize data for key stakeholders within the company. They support the data analytics life cycle by providing insights and recommendations to improve business processes especially in the Business Understanding and Reporting & Visualization phases.
+Business intelligence analysts are responsible for using data to help businesses make daily decisions. They gather key business datasets such as revenue, sales, or market trends to visualize data for key stakeholders within the company. They support the data analytics life cycle by providing insights and recommendations to improve business processes, especially in the Business Understanding, and Reporting & Visualization phases.
 
 ### Career 2: Data Engineer
 
@@ -28,19 +28,19 @@ Machine learning engineers handle the design, development, and deployment of mac
 
 ### Comparison
 
-While all three career paths are related to data analytics, they focus on and provide different types of support to the data analytics life cycle. Business intelligence analysts focus on the Business Understanding and Reporting & Visualization phases, data engineers focus on the Data Acquisition, Data Cleaning, and Data Exploration phases, and machine learning engineers focus on the Predictive Modeling and Data Mining & Machine Learning phases. Each of their skill sets and responsibilities are unique and essential to their area of the data analytics life cycle.
+While all three career paths are related to data analytics, they focus on and provide different types of support to the data analytics life cycle. Business intelligence analysts focus on the Business Understanding and Reporting & Visualization phases, data engineers focus on the Data Acquisition, Data Cleaning, and Data Exploration phases, and machine learning engineers focus on the Predictive Modeling, and Data Mining & Machine Learning phases. Each of their skill sets and responsibilities is unique and essential to their area of the data analytics life cycle.
 
 ---
 
 ## ProjectPro Data Analytics Disciplines
 
-ProjectPro provides a comparison of several different data analytics disciplines, notably Data Engineering, Business Analytics, and Machine Learning which are closely related to the three career paths I have chosen to consider. ProjectPro describes data engineering as the design and implementation of data architecture from the databases storing the data to the large scale systems processing the data. ProjectPro differentiates business analytics from other disciplines as the statistical study and analysis of primarily structured business data with a focused scope on providing business solutions to specific problems. The machine learning discipline's goal is create predictive models using machine learning concepts that can be applied to data problems
+ProjectPro provides a comparison of several different data analytics disciplines, notably Data Engineering, Business Analytics, and Machine Learning which are closely related to the three career paths I have chosen to consider. ProjectPro describes data engineering as the design and implementation of data architecture from the databases storing the data to the large-scale systems processing the data. ProjectPro differentiates business analytics from other disciplines as the statistical study and analysis of primarily structured business data with a focused scope on providing business solutions to specific problems. The machine learning discipline's goal is to create predictive models using machine learning concepts that can be applied to data problems.
 
 ### Bureau of Labor & Statistics Careers
 
 The Bureau of Labor & Statistics provides information on the job outlook for data scientists, operations research analysts, and statisticians. All three careers are related to data analytics and have a positive job outlook with high median salaries. While statisticians make more than research analysts, there are significantly more job opportunities for research analysts. Data scientists have the highest median salary of the three careers while also having the highest number of employment opportunities.
 
-The academic and professional skills required for these careers include a strong foundation in mathematics, statistics, and programming. Data scientists may benefit from a strong background in computer science, while statisticians require a stronger focused background in mathematics and statistics. Operations research analysts require a strong background in statistics as well as a strong fundamentals in business.
+The academic and professional skills required for these careers include a strong foundation in mathematics, statistics, and programming. Data scientists may benefit from a strong background in computer science, while statisticians require a stronger focused background in mathematics and statistics. Operations research analysts require a strong background in statistics as well as strong fundamentals in business.
 
 ---
 
@@ -50,7 +50,7 @@ As a student pursuing an MSDA with a specialization in data science with an exte
 
 ### CliftonStrengths Reflection
 
-My top five CliftonStrengths themes are Restorative, Ideation, Relator, Analytical, and Intellection. My Ideation, Analytical, and Intellection themes fall under the strategic thinking leadership domain allowing me to absorb and analyze information to make strategic decisions. My Restorative theme falls under the executing leadership domain signalling that my drive to find answers helps me make actionable decisions. My Relator theme falls under the relationship-building leadership domain indicating that I can build strong relationships by connecting deeply with the right people. These themes are crucial for a machine learning engineer as they require strategic thinking and problem-solving skills to develop machine learning models.
+My top five CliftonStrengths themes are Restorative, Ideation, Relator, Analytical, and Intellection. My Ideation, Analytical, and Intellection themes fall under the strategic thinking leadership domain allowing me to absorb and analyze information to make strategic decisions. My Restorative theme falls under the executing leadership domain signaling that my drive to find answers helps me make actionable decisions. My Relator theme falls under the relationship-building leadership domain indicating that I can build strong relationships by connecting deeply with the right people. These themes are crucial for a machine learning engineer as they require strategic thinking and problem-solving skills to develop machine learning models.
 
 ---
 
