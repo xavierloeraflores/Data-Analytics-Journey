@@ -86,16 +86,20 @@ The proposed predictive model aims to solve the problem of identifying at-risk s
 
 ## Data Analytics Decision Making Process
 
+The decision making process for implementing a predicted model began with gaining the business understanding of the problem. Once the problem was understood, exploring the data was available helped identify potential features that could be used to predict student success. Given our available data and business needs, logistic regression was chosen as a predictive model to forecast student success.
+
 ### Justification
+
+My company needs the predictive model because it will help identify at-risk students early on and provide the instructional team with the necessary information to intervene and help the student succeed. Logistic regression works well for our situation since we have datasets with features such as assignment scores, quiz performance, and attendance. The classification results would also be fast and easy to interpret and act upon.
 
 ### Results
 
+The results of using the predicted model will be a categorized list of students who are at-risk and need intervention. These models can be ran multiple times at different stages of the course to ensure that the instructional team is always up to date with the student's progress. The results can also be used to evaluate the effectiveness of the instructional team or previous interventions.
+
 ### Potential Ethical Problems
 
-#### Problem 1
+-   Data Privacy: The model risks exposing sensitive student information which may violate FERPA privacy laws.
 
-#### Problem 2
+-   Bias: The model may unintentionally discriminate against certain student groups which may result in unfair interventions and unaddressed students who were falsely marked as doing well.
 
-#### Problem 3
-
----
+-   Psychological Consequences: The model might reduce educators’ judgment if they make decisions based solely on predictions rather than individual student needs. There is also concern for how the students will react to being labeled as at-risk.
