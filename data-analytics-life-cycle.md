@@ -64,15 +64,23 @@ Business missions and goals help analysts identify business requirements by prov
 
 ---
 
-## Application of Data Analytics Tools in the Data Analytics Life Cycle
+## Application of a Data Analytics Tool in the Data Analytics Life Cycle
 
-### Risk 1
+At my current company, I have the opportunity to potentially improve student success outcomes using the student data. In the predictive modeling phase of the data analytics life cycle, I can apply logistic regression to predict student success based on features like assignment scores, quiz performance, and class attendance potentially identifying and helping at-risk students early on.
 
-### Risk 2
+### Risks
 
-### Risk 3
+There are risks involved in using predictive models to forecast student outcomes. Some of these risks include:
 
-### Organizational or Technical Problem
+-   There may be data quality issues if student progress data is incomplete or inaccurate since it is manually tracked by the instructional team making predictions less reliable.
+
+-   There is a privacy risk if the model is not properly secured and student data is exposed to unauthorized users thus violating potential FERPA regulations.
+
+-   The model could unintentionally be biased against certain cohorts or sub groups of students. We will need to ensure that the model accounts for varying learning paces and doesn’t penalize students who learn differently.
+
+### Organizational Problem
+
+The proposed predictive model aims to solve the problem of identifying at-risk students early on allowing the instructional team to intervene and fix the course of the student's success outcome. By using predictive analytics based on student performance data, the model addresses my company's need to improve student success outcomes ensuring that students and educators are successful. Increasing student success outcomes not only helps reduce the amount of students dropping out and refunding the course but also helps the company's reputation with students and educators.
 
 ---
 
